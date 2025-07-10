@@ -1,0 +1,3 @@
+go in the cmd command of this file n type 
+javac *.java
+java Client
